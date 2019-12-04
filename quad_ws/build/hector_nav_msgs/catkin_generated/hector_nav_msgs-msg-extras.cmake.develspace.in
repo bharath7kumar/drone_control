@@ -1,0 +1,2 @@
+set(hector_nav_msgs_MESSAGE_FILES "")
+set(hector_nav_msgs_SERVICE_FILES "/home/bharath/quad/src/hector_quadrotor/hector_slam/hector_nav_msgs/srv/GetDistanceToObstacle.srv;/home/bharath/quad/src/hector_quadrotor/hector_slam/hector_nav_msgs/srv/GetRecoveryInfo.srv;/home/bharath/quad/src/hector_quadrotor/hector_slam/hector_nav_msgs/srv/GetRobotTrajectory.srv;/home/bharath/quad/src/hector_quadrotor/hector_slam/hector_nav_msgs/srv/GetSearchPosition.srv;/home/bharath/quad/src/hector_quadrotor/hector_slam/hector_nav_msgs/srv/GetNormal.srv")

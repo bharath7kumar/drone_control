@@ -1,0 +1,1 @@
+/home/bharath/quad/devel/.private/hector_mapping/share/roseus/ros/hector_mapping/manifest.l

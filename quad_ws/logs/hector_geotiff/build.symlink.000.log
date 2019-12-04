@@ -1,0 +1,6 @@
+Symlinking /home/bharath/quad/devel/lib/libgeotiff_writer.so
+Symlinking /home/bharath/quad/devel/lib/hector_geotiff/geotiff_node
+Symlinking /home/bharath/quad/devel/lib/hector_geotiff/geotiff_saver
+Symlinking /home/bharath/quad/devel/lib/pkgconfig/hector_geotiff.pc
+Symlinking /home/bharath/quad/devel/share/hector_geotiff/cmake/hector_geotiffConfig.cmake
+Symlinking /home/bharath/quad/devel/share/hector_geotiff/cmake/hector_geotiffConfig-version.cmake

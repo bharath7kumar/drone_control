@@ -1,0 +1,4 @@
+Symlinking /home/bharath/quad/devel/lib/pkgconfig/hector_quadrotor_teleop.pc
+Symlinking /home/bharath/quad/devel/lib/hector_quadrotor_teleop/quadrotor_teleop
+Symlinking /home/bharath/quad/devel/share/hector_quadrotor_teleop/cmake/hector_quadrotor_teleopConfig.cmake
+Symlinking /home/bharath/quad/devel/share/hector_quadrotor_teleop/cmake/hector_quadrotor_teleopConfig-version.cmake

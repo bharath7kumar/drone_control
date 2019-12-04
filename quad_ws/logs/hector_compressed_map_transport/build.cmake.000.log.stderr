@@ -1,0 +1,22 @@
+[31m[1mCMake Error[0m at /usr/local/lib/cmake/opencv4/OpenCVModules.cmake:397 (message):
+  The imported target "opencv_core" references the file
+
+     "/usr/local/lib/libopencv_core.so.4.0.0"
+
+  but this file does not exist.  Possible reasons include:
+
+  * The file was deleted, renamed, or moved to another location.
+
+  * An install or uninstall procedure did not complete successfully.
+
+  * The installation package was faulty and contained
+
+     "/usr/local/lib/cmake/opencv4/OpenCVModules.cmake"
+
+  but not all the files it references.
+
+[36mCall Stack (most recent call first):[0m
+  /usr/local/lib/cmake/opencv4/OpenCVConfig.cmake:112 (include)
+  CMakeLists.txt:25 (find_package)
+
+

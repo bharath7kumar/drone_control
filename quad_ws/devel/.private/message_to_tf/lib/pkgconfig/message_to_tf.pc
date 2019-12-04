@@ -1,0 +1,8 @@
+prefix=/home/bharath/quad/devel/.private/message_to_tf
+
+Name: message_to_tf
+Description: Description of message_to_tf
+Version: 0.3.0
+Cflags: 
+Libs: -L/home/bharath/quad/devel/.private/message_to_tf/lib 
+Requires: tf nav_msgs geometry_msgs sensor_msgs topic_tools

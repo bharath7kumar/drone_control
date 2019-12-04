@@ -1,0 +1,19 @@
+Cloning into 'ardronelib'...
+fatal: unable to connect to github.com:
+github.com[0: 13.234.176.102]: errno=Connection timed out
+
+Cloning into 'ardronelib'...
+fatal: unable to connect to github.com:
+github.com[0: 13.234.176.102]: errno=Connection timed out
+
+Cloning into 'ardronelib'...
+fatal: unable to connect to github.com:
+github.com[0: 13.234.210.38]: errno=Connection timed out
+
+CMake Error at /home/bharath/quad/devel/.private/ardrone_autonomy/tmp/ardronelib-gitclone.cmake:66 (message):
+  Failed to clone repository: 'git://github.com/AutonomyLab/ardronelib.git'
+
+
+make[2]: *** [/home/bharath/quad/devel/.private/ardrone_autonomy/src/ardronelib-stamp/ardronelib-download] Error 1
+make[1]: *** [CMakeFiles/ardronelib.dir/all] Error 2
+make: *** [all] Error 2

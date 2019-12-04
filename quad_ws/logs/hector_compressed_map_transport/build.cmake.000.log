@@ -1,0 +1,66 @@
+Not searching for unused variables given on the command line.
+[36m--[0m The C compiler identification is GNU 7.4.0
+[36m--[0m The CXX compiler identification is GNU 7.4.0
+[36m--[0m Check for working C compiler: /usr/bin/cc
+[36m--[0m Check for working C compiler: /usr/bin/cc -- works
+[36m--[0m Detecting C compiler ABI info
+[36m--[0m Detecting C compiler ABI info - done
+[36m--[0m Detecting C compile features
+[36m--[0m Detecting C compile features - done
+[36m--[0m Check for working CXX compiler: /usr/bin/c++
+[36m--[0m Check for working CXX compiler: /usr/bin/c++ -- works
+[36m--[0m Detecting CXX compiler ABI info
+[36m--[0m Detecting CXX compiler ABI info - done
+[36m--[0m Detecting CXX compile features
+[36m--[0m Detecting CXX compile features - done
+[36m--[0m Using CATKIN_DEVEL_PREFIX: /home/bharath/quad/devel/.private/hector_compressed_map_transport
+[36m--[0m Using CMAKE_PREFIX_PATH: /home/bharath/quad/devel;/home/bharath/catkin_ws/devel;/opt/ros/melodic
+[36m--[0m This workspace overlays: /home/bharath/quad/devel;/home/bharath/catkin_ws/devel;/opt/ros/melodic
+[36m--[0m Found PythonInterp: /usr/bin/python2 (found suitable version "2.7.15", minimum required is "2")
+[36m--[0m Using PYTHON_EXECUTABLE: /usr/bin/python2
+[36m--[0m Using Debian Python package layout
+[36m--[0m Using empy: /usr/bin/empy
+[36m--[0m Using CATKIN_ENABLE_TESTING: ON
+[36m--[0m Call enable_testing()
+[36m--[0m Using CATKIN_TEST_RESULTS_DIR: /home/bharath/quad/build/hector_compressed_map_transport/test_results
+[36m--[0m Found gmock sources under '/usr/src/googletest': gmock will be built
+[36m--[0m Found PythonInterp: /usr/bin/python2 (found version "2.7.15")
+[36m--[0m Looking for pthread.h
+[36m--[0m Looking for pthread.h - found
+[36m--[0m Looking for pthread_create
+[36m--[0m Looking for pthread_create - not found
+[36m--[0m Looking for pthread_create in pthreads
+[36m--[0m Looking for pthread_create in pthreads - not found
+[36m--[0m Looking for pthread_create in pthread
+[36m--[0m Looking for pthread_create in pthread - found
+[36m--[0m Found Threads: TRUE
+[36m--[0m Found gtest sources under '/usr/src/googletest': gtests will be built
+[36m--[0m Using Python nosetests: /usr/bin/nosetests-2.7
+[36m--[0m catkin 0.7.17
+[36m--[0m BUILD_SHARED_LIBS is on
+[36m--[0m Using these message generators: gencpp;geneus;genlisp;gennodejs;genpy
+[31m[1mCMake Error[0m at /usr/local/lib/cmake/opencv4/OpenCVModules.cmake:397 (message):
+  The imported target "opencv_core" references the file
+
+     "/usr/local/lib/libopencv_core.so.4.0.0"
+
+  but this file does not exist.  Possible reasons include:
+
+  * The file was deleted, renamed, or moved to another location.
+
+  * An install or uninstall procedure did not complete successfully.
+
+  * The installation package was faulty and contained
+
+     "/usr/local/lib/cmake/opencv4/OpenCVModules.cmake"
+
+  but not all the files it references.
+
+[36mCall Stack (most recent call first):[0m
+  /usr/local/lib/cmake/opencv4/OpenCVConfig.cmake:112 (include)
+  CMakeLists.txt:25 (find_package)
+
+
+[36m--[0m Configuring incomplete, errors occurred!
+See also "/home/bharath/quad/build/hector_compressed_map_transport/CMakeFiles/CMakeOutput.log".
+See also "/home/bharath/quad/build/hector_compressed_map_transport/CMakeFiles/CMakeError.log".

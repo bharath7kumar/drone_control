@@ -1,0 +1,1 @@
+/home/bharath/quad/devel/.private/hector_quadrotor_controllers/share/hector_quadrotor_controllers/cmake/hector_quadrotor_controllersConfig-version.cmake

@@ -1,0 +1,8 @@
+prefix=/home/bharath/quad/install
+
+Name: hector_quadrotor_actions
+Description: Description of hector_quadrotor_actions
+Version: 0.0.0
+Cflags: -I/home/bharath/quad/install/include
+Libs: -L/home/bharath/quad/install/lib 
+Requires: roscpp

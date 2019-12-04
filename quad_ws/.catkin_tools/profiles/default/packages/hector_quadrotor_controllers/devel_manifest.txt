@@ -1,0 +1,6 @@
+hector_quadrotor/hector_quadrotor/hector_quadrotor_controllers
+/home/bharath/quad/devel/.private/hector_quadrotor_controllers/cmake.lock /home/bharath/quad/devel/./cmake.lock
+/home/bharath/quad/devel/.private/hector_quadrotor_controllers/lib/libhector_quadrotor_controllers.so /home/bharath/quad/devel/lib/libhector_quadrotor_controllers.so
+/home/bharath/quad/devel/.private/hector_quadrotor_controllers/lib/pkgconfig/hector_quadrotor_controllers.pc /home/bharath/quad/devel/lib/pkgconfig/hector_quadrotor_controllers.pc
+/home/bharath/quad/devel/.private/hector_quadrotor_controllers/share/hector_quadrotor_controllers/cmake/hector_quadrotor_controllersConfig.cmake /home/bharath/quad/devel/share/hector_quadrotor_controllers/cmake/hector_quadrotor_controllersConfig.cmake
+/home/bharath/quad/devel/.private/hector_quadrotor_controllers/share/hector_quadrotor_controllers/cmake/hector_quadrotor_controllersConfig-version.cmake /home/bharath/quad/devel/share/hector_quadrotor_controllers/cmake/hector_quadrotor_controllersConfig-version.cmake

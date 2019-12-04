@@ -1,0 +1,3 @@
+[  0%] Built target hector_uav_msgs_generate_messages_cpp
+[ 33%] [32m[1mLinking CXX shared library /home/bharath/quad/devel/.private/hector_quadrotor_interface/lib/libhector_quadrotor_interface.so[0m
+[100%] Built target hector_quadrotor_interface

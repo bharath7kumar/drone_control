@@ -1,0 +1,5 @@
+Symlinking /home/bharath/quad/devel/lib/libhector_quadrotor_propulsion.so
+Symlinking /home/bharath/quad/devel/lib/libhector_quadrotor_aerodynamics.so
+Symlinking /home/bharath/quad/devel/lib/pkgconfig/hector_quadrotor_model.pc
+Symlinking /home/bharath/quad/devel/share/hector_quadrotor_model/cmake/hector_quadrotor_modelConfig.cmake
+Symlinking /home/bharath/quad/devel/share/hector_quadrotor_model/cmake/hector_quadrotor_modelConfig-version.cmake

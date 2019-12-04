@@ -1,0 +1,5 @@
+Symlinking /home/bharath/quad/devel/lib/libhector_pose_estimation.so
+Symlinking /home/bharath/quad/devel/lib/pkgconfig/hector_pose_estimation_core.pc
+Symlinking /home/bharath/quad/devel/share/hector_pose_estimation_core/cmake/hector_pose_estimation_coreConfig.cmake
+Symlinking /home/bharath/quad/devel/share/hector_pose_estimation_core/cmake/hector_pose_estimation_coreConfig-version.cmake
+Symlinking /home/bharath/quad/devel/include/hector_pose_estimation/matrix_config.h

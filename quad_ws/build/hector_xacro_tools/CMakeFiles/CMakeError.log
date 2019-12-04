@@ -1,0 +1,110 @@
+Determining if the pthread_create exist failed with the following output:
+Change Dir: /home/bharath/quad/build/hector_xacro_tools/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_1b305/fast"
+/usr/bin/make -f CMakeFiles/cmTC_1b305.dir/build.make CMakeFiles/cmTC_1b305.dir/build
+make[1]: Entering directory '/home/bharath/quad/build/hector_xacro_tools/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_1b305.dir/CheckSymbolExists.c.o
+/usr/bin/cc    -o CMakeFiles/cmTC_1b305.dir/CheckSymbolExists.c.o   -c /home/bharath/quad/build/hector_xacro_tools/CMakeFiles/CMakeTmp/CheckSymbolExists.c
+Linking C executable cmTC_1b305
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_1b305.dir/link.txt --verbose=1
+/usr/bin/cc      -rdynamic CMakeFiles/cmTC_1b305.dir/CheckSymbolExists.c.o  -o cmTC_1b305 
+CMakeFiles/cmTC_1b305.dir/CheckSymbolExists.c.o: In function `main':
+CheckSymbolExists.c:(.text+0x1b): undefined reference to `pthread_create'
+collect2: error: ld returned 1 exit status
+CMakeFiles/cmTC_1b305.dir/build.make:97: recipe for target 'cmTC_1b305' failed
+make[1]: *** [cmTC_1b305] Error 1
+make[1]: Leaving directory '/home/bharath/quad/build/hector_xacro_tools/CMakeFiles/CMakeTmp'
+Makefile:126: recipe for target 'cmTC_1b305/fast' failed
+make: *** [cmTC_1b305/fast] Error 2
+
+File /home/bharath/quad/build/hector_xacro_tools/CMakeFiles/CMakeTmp/CheckSymbolExists.c:
+/* */
+#include <pthread.h>
+
+int main(int argc, char** argv)
+{
+  (void)argv;
+#ifndef pthread_create
+  return ((int*)(&pthread_create))[argc];
+#else
+  (void)argc;
+  return 0;
+#endif
+}
+
+Determining if the function pthread_create exists in the pthreads failed with the following output:
+Change Dir: /home/bharath/quad/build/hector_xacro_tools/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_aa50c/fast"
+/usr/bin/make -f CMakeFiles/cmTC_aa50c.dir/build.make CMakeFiles/cmTC_aa50c.dir/build
+make[1]: Entering directory '/home/bharath/quad/build/hector_xacro_tools/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_aa50c.dir/CheckFunctionExists.c.o
+/usr/bin/cc   -DCHECK_FUNCTION_EXISTS=pthread_create   -o CMakeFiles/cmTC_aa50c.dir/CheckFunctionExists.c.o   -c /usr/share/cmake-3.10/Modules/CheckFunctionExists.c
+Linking C executable cmTC_aa50c
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_aa50c.dir/link.txt --verbose=1
+/usr/bin/cc  -DCHECK_FUNCTION_EXISTS=pthread_create    -rdynamic CMakeFiles/cmTC_aa50c.dir/CheckFunctionExists.c.o  -o cmTC_aa50c -lpthreads 
+/usr/bin/ld: cannot find -lpthreads
+collect2: error: ld returned 1 exit status
+CMakeFiles/cmTC_aa50c.dir/build.make:97: recipe for target 'cmTC_aa50c' failed
+make[1]: *** [cmTC_aa50c] Error 1
+make[1]: Leaving directory '/home/bharath/quad/build/hector_xacro_tools/CMakeFiles/CMakeTmp'
+Makefile:126: recipe for target 'cmTC_aa50c/fast' failed
+make: *** [cmTC_aa50c/fast] Error 2
+
+
+Determining if the pthread_create exist failed with the following output:
+Change Dir: /home/bharath/quad/build/hector_xacro_tools/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_e6045/fast"
+/usr/bin/make -f CMakeFiles/cmTC_e6045.dir/build.make CMakeFiles/cmTC_e6045.dir/build
+make[1]: Entering directory '/home/bharath/quad/build/hector_xacro_tools/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_e6045.dir/CheckSymbolExists.c.o
+/usr/bin/cc    -o CMakeFiles/cmTC_e6045.dir/CheckSymbolExists.c.o   -c /home/bharath/quad/build/hector_xacro_tools/CMakeFiles/CMakeTmp/CheckSymbolExists.c
+Linking C executable cmTC_e6045
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_e6045.dir/link.txt --verbose=1
+/usr/bin/cc      -rdynamic CMakeFiles/cmTC_e6045.dir/CheckSymbolExists.c.o  -o cmTC_e6045 
+CMakeFiles/cmTC_e6045.dir/CheckSymbolExists.c.o: In function `main':
+CheckSymbolExists.c:(.text+0x1b): undefined reference to `pthread_create'
+collect2: error: ld returned 1 exit status
+CMakeFiles/cmTC_e6045.dir/build.make:97: recipe for target 'cmTC_e6045' failed
+make[1]: *** [cmTC_e6045] Error 1
+make[1]: Leaving directory '/home/bharath/quad/build/hector_xacro_tools/CMakeFiles/CMakeTmp'
+Makefile:126: recipe for target 'cmTC_e6045/fast' failed
+make: *** [cmTC_e6045/fast] Error 2
+
+File /home/bharath/quad/build/hector_xacro_tools/CMakeFiles/CMakeTmp/CheckSymbolExists.c:
+/* */
+#include <pthread.h>
+
+int main(int argc, char** argv)
+{
+  (void)argv;
+#ifndef pthread_create
+  return ((int*)(&pthread_create))[argc];
+#else
+  (void)argc;
+  return 0;
+#endif
+}
+
+Determining if the function pthread_create exists in the pthreads failed with the following output:
+Change Dir: /home/bharath/quad/build/hector_xacro_tools/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_bf3b4/fast"
+/usr/bin/make -f CMakeFiles/cmTC_bf3b4.dir/build.make CMakeFiles/cmTC_bf3b4.dir/build
+make[1]: Entering directory '/home/bharath/quad/build/hector_xacro_tools/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_bf3b4.dir/CheckFunctionExists.c.o
+/usr/bin/cc   -DCHECK_FUNCTION_EXISTS=pthread_create   -o CMakeFiles/cmTC_bf3b4.dir/CheckFunctionExists.c.o   -c /usr/share/cmake-3.10/Modules/CheckFunctionExists.c
+Linking C executable cmTC_bf3b4
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_bf3b4.dir/link.txt --verbose=1
+/usr/bin/cc  -DCHECK_FUNCTION_EXISTS=pthread_create    -rdynamic CMakeFiles/cmTC_bf3b4.dir/CheckFunctionExists.c.o  -o cmTC_bf3b4 -lpthreads 
+/usr/bin/ld: cannot find -lpthreads
+collect2: error: ld returned 1 exit status
+CMakeFiles/cmTC_bf3b4.dir/build.make:97: recipe for target 'cmTC_bf3b4' failed
+make[1]: *** [cmTC_bf3b4] Error 1
+make[1]: Leaving directory '/home/bharath/quad/build/hector_xacro_tools/CMakeFiles/CMakeTmp'
+Makefile:126: recipe for target 'cmTC_bf3b4/fast' failed
+make: *** [cmTC_bf3b4/fast] Error 2
+
+

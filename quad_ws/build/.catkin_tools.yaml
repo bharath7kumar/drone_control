@@ -1,0 +1,6 @@
+devel_space: /home/bharath/quad/devel
+install: false
+install_space: /home/bharath/quad/install
+profile: default
+source_space: /home/bharath/quad/src
+workspace: /home/bharath/quad

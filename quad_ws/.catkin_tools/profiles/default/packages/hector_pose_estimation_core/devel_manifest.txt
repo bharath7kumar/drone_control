@@ -1,0 +1,7 @@
+hector_quadrotor/hector_localization/hector_pose_estimation_core
+/home/bharath/quad/devel/.private/hector_pose_estimation_core/cmake.lock /home/bharath/quad/devel/./cmake.lock
+/home/bharath/quad/devel/.private/hector_pose_estimation_core/lib/libhector_pose_estimation.so /home/bharath/quad/devel/lib/libhector_pose_estimation.so
+/home/bharath/quad/devel/.private/hector_pose_estimation_core/lib/pkgconfig/hector_pose_estimation_core.pc /home/bharath/quad/devel/lib/pkgconfig/hector_pose_estimation_core.pc
+/home/bharath/quad/devel/.private/hector_pose_estimation_core/share/hector_pose_estimation_core/cmake/hector_pose_estimation_coreConfig.cmake /home/bharath/quad/devel/share/hector_pose_estimation_core/cmake/hector_pose_estimation_coreConfig.cmake
+/home/bharath/quad/devel/.private/hector_pose_estimation_core/share/hector_pose_estimation_core/cmake/hector_pose_estimation_coreConfig-version.cmake /home/bharath/quad/devel/share/hector_pose_estimation_core/cmake/hector_pose_estimation_coreConfig-version.cmake
+/home/bharath/quad/devel/.private/hector_pose_estimation_core/include/hector_pose_estimation/matrix_config.h /home/bharath/quad/devel/include/hector_pose_estimation/matrix_config.h

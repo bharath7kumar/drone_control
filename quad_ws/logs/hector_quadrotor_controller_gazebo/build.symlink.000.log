@@ -1,0 +1,4 @@
+Symlinking /home/bharath/quad/devel/lib/libhector_quadrotor_controller_gazebo.so
+Symlinking /home/bharath/quad/devel/lib/pkgconfig/hector_quadrotor_controller_gazebo.pc
+Symlinking /home/bharath/quad/devel/share/hector_quadrotor_controller_gazebo/cmake/hector_quadrotor_controller_gazeboConfig-version.cmake
+Symlinking /home/bharath/quad/devel/share/hector_quadrotor_controller_gazebo/cmake/hector_quadrotor_controller_gazeboConfig.cmake

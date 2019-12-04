@@ -1,0 +1,12 @@
+Symlinking /home/bharath/quad/devel/./local_setup.sh
+Symlinking /home/bharath/quad/devel/./setup.zsh
+Symlinking /home/bharath/quad/devel/./setup.bash
+Symlinking /home/bharath/quad/devel/./cmake.lock
+Symlinking /home/bharath/quad/devel/./_setup_util.py
+Symlinking /home/bharath/quad/devel/./local_setup.zsh
+Symlinking /home/bharath/quad/devel/./env.sh
+Symlinking /home/bharath/quad/devel/./local_setup.bash
+Symlinking /home/bharath/quad/devel/./setup.sh
+Symlinking /home/bharath/quad/devel/lib/pkgconfig/catkin_tools_prebuild.pc
+Symlinking /home/bharath/quad/devel/share/catkin_tools_prebuild/cmake/catkin_tools_prebuildConfig-version.cmake
+Symlinking /home/bharath/quad/devel/share/catkin_tools_prebuild/cmake/catkin_tools_prebuildConfig.cmake

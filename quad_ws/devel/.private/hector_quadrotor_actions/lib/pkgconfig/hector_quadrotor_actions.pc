@@ -1,0 +1,8 @@
+prefix=/home/bharath/quad/devel/.private/hector_quadrotor_actions
+
+Name: hector_quadrotor_actions
+Description: Description of hector_quadrotor_actions
+Version: 0.0.0
+Cflags: -I/home/bharath/quad/src/hector_quadrotor/hector_quadrotor/hector_quadrotor_actions/include
+Libs: -L/home/bharath/quad/devel/.private/hector_quadrotor_actions/lib 
+Requires: roscpp
