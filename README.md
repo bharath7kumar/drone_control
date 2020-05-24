@@ -1,8 +1,2 @@
-## A repo for experimenting different controllers on drones
+## Control of drone using skeleton markers from XBOX kinect
 
-#### Progress:
-#### Trajectory control of drones using skeleton markers from RGB-D depth sensor
-
-#### TODO:
-#### 1.Experimenting the drone with MPC
-#### 2.Swarm formation of the drones
